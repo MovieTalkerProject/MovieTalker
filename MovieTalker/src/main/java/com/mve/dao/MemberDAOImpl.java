@@ -28,8 +28,6 @@ public class MemberDAOImpl implements MemberDAO {
     }
   
 
-  
-
 /*
 	@Override
 	public MemberVO loginMember(MemberVO member) {
