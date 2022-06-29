@@ -7,7 +7,7 @@ const FindId = (props) => {
 
   return (
     <div className={styles.wrap}>
-      <p>아이디 찾기</p>
+      <p>아이디 찾기docker</p>
 
       <section className={styles.findId}>
         <div>
