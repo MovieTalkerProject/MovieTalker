@@ -26,9 +26,9 @@ public class MemberDAOImpl implements MemberDAO {
  
         return sqlSession.selectList(Namespace+".selectMember");
     }
+  
 
-
-
+  
 
 /*
 	@Override
